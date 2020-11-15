@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc1\\Desktop\\trpo prakt\\prak3\\PR3\\PRAC3\\PRAC3.csproj": {}
+    "C:\\Users\\Алишер\\Desktop\\Prak3\\PR3\\PRAC3\\PRAC3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc1\\Desktop\\trpo prakt\\prak3\\PR3\\PRAC3\\PRAC3.csproj": {
+    "C:\\Users\\Алишер\\Desktop\\Prak3\\PR3\\PRAC3\\PRAC3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc1\\Desktop\\trpo prakt\\prak3\\PR3\\PRAC3\\PRAC3.csproj",
+        "projectUniqueName": "C:\\Users\\Алишер\\Desktop\\Prak3\\PR3\\PRAC3\\PRAC3.csproj",
         "projectName": "PRAC3",
-        "projectPath": "C:\\Users\\pc1\\Desktop\\trpo prakt\\prak3\\PR3\\PRAC3\\PRAC3.csproj",
-        "packagesPath": "C:\\Users\\pc1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc1\\Desktop\\trpo prakt\\prak3\\PR3\\PRAC3\\obj\\",
+        "projectPath": "C:\\Users\\Алишер\\Desktop\\Prak3\\PR3\\PRAC3\\PRAC3.csproj",
+        "packagesPath": "C:\\Users\\Алишер\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Алишер\\Desktop\\Prak3\\PR3\\PRAC3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pc1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Алишер\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,7 +59,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

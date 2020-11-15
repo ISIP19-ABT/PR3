@@ -29,8 +29,11 @@ namespace PRAC3
         {
             string b = b1.Text;
             char[] c = b.ToCharArray();//Vvod teksta
+            for (int i = 1; c.Length >= i; i++) 
+            {
+                res.Text += c[c.Length - i]; //выводит текст в обратном порядке
+            }
 
-            
         }
     }
 }
