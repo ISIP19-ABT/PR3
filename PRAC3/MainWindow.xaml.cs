@@ -27,7 +27,10 @@ namespace PRAC3
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            string b = b1.Text;
+            char[] c = b.ToCharArray();//Vvod teksta
 
+            
         }
     }
 }

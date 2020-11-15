@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\HelioS 300\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\pc1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HelioS 300\\source\\repos\\PRAC3\\PRAC3\\PRAC3.csproj",
+      "projectUniqueName": "C:\\Users\\pc1\\Desktop\\trpo prakt\\prak3\\PR3\\PRAC3\\PRAC3.csproj",
       "projectName": "PRAC3",
-      "projectPath": "C:\\Users\\HelioS 300\\source\\repos\\PRAC3\\PRAC3\\PRAC3.csproj",
-      "packagesPath": "C:\\Users\\HelioS 300\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HelioS 300\\source\\repos\\PRAC3\\PRAC3\\obj\\",
+      "projectPath": "C:\\Users\\pc1\\Desktop\\trpo prakt\\prak3\\PR3\\PRAC3\\PRAC3.csproj",
+      "packagesPath": "C:\\Users\\pc1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc1\\Desktop\\trpo prakt\\prak3\\PR3\\PRAC3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HelioS 300\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pc1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

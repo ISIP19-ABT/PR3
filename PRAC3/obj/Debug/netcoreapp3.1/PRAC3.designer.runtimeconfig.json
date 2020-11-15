@@ -6,9 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\HelioS 300\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\HelioS 300\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\pc1\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pc1\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
